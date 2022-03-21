@@ -99,7 +99,7 @@ const MySkillsPage = () => {
 I love to create design which speaks, Keep it clean, minimal and simple.
 </Description>
 <Description>
-<strong>I like to Design and do interactive web pages</strong>
+
 <ul>
     <li>
         Design
